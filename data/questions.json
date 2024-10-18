@@ -1,0 +1,52 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "options": ["London", "Berlin", "Paris", "Madrid"],
+      "correctAnswer": "Paris"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Mars", "Jupiter", "Venus", "Saturn"],
+      "correctAnswer": "Mars"
+    },
+    {
+      "question": "What is the largest mammal in the world?",
+      "options": ["African Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+      "correctAnswer": "Blue Whale"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Michelangelo"],
+      "correctAnswer": "Leonardo da Vinci"
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Au", "Ag", "Fe", "Cu"],
+      "correctAnswer": "Au"
+    },
+    {
+      "question": "Which country is home to the kangaroo?",
+      "options": ["New Zealand", "South Africa", "Australia", "Brazil"],
+      "correctAnswer": "Australia"
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "correctAnswer": "Pacific Ocean"
+    },
+    {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+      "correctAnswer": "William Shakespeare"
+    },
+    {
+      "question": "What is the hardest natural substance on Earth?",
+      "options": ["Gold", "Iron", "Diamond", "Platinum"],
+      "correctAnswer": "Diamond"
+    },
+    {
+      "question": "Which of these is not a primary color?",
+      "options": ["Red", "Blue", "Green", "Yellow"],
+      "correctAnswer": "Green"
+    }
+  ]
